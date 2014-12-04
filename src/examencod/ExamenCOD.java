@@ -1,6 +1,6 @@
 
 package examencod;
-
+//autor Micael Pereria Salgado
 public class ExamenCOD {
 
     /**
